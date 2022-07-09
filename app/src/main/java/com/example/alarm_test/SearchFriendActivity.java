@@ -57,7 +57,7 @@ public class SearchFriendActivity extends AppCompatActivity {
                                     friend_Tv.setOnClickListener(new View.OnClickListener() {
                                         @Override
                                         public void onClick(View v) {
-
+                                            System.out.println("z");
                                         }
                                     });
                                 }
